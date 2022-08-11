@@ -51,6 +51,8 @@ main {
   border: none;
   position: absolute;
   cursor: pointer;
+
+  transform: translateX(126.53px); 
 }
 
 .toggle-light {
